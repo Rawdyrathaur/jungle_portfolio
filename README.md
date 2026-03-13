@@ -3,9 +3,8 @@
 > **For developers with 0–2 years of experience** aiming to pass technical interviews, meet employer expectations, and build a world-class Java career.
 >
 > *Deep research compiled from InterviewBit, DataCamp, Glassdoor, HR Dive, BSWEN, and 200+ job postings — March 2026*
-
----
-
+>
+> 
 ## 📑 Table of Contents
 
 1. [Core Java Fundamentals](#1-core-java-fundamentals)
